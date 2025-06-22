@@ -4,9 +4,9 @@ A solo full-stack hackathon project that lets families preserve their most meani
 
 ## 📸 Demo
 
-🔗 [Live Demo](https://priyanshuiii2110.github.io/Hackathon02/)
+🔗 [Live Demo](https://legacy-vault.netlify.app/)
 
-> *(Optimized for desktop view)*
+
 
 ---
 
